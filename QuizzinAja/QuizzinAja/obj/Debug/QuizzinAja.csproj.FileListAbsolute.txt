@@ -1,0 +1,13 @@
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\bin\Debug\QuizzinAja.exe.config
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\bin\Debug\QuizzinAja.exe
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\bin\Debug\QuizzinAja.pdb
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.csproj.AssemblyReference.cache
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.CreateAccountForm.resources
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.Form1.resources
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.Properties.Resources.resources
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.csproj.GenerateResource.cache
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.csproj.CoreCompileInputs.cache
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.exe
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.pdb
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.MainForm.resources
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.AddQuizForm.resources

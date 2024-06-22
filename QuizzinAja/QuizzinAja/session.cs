@@ -12,11 +12,19 @@ namespace QuizzinAja
 
         public static int id_user;
         public static string nama_user;
+        public static string nickname;
+        public static string code;
 
         public static void start(int id, string nama)
         {
             id_user = id;
             nama_user = nama;
+        }
+
+        public static void quizStart(string n, string c)
+        {
+            nickname = n;
+            code = c;
         }
 
         public static void stop(int id)

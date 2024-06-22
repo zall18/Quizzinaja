@@ -80,5 +80,12 @@ namespace QuizzinAja
             addQuizForm.Show();
             this.Hide();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ViewReportPage viewReportPage = new ViewReportPage();
+            viewReportPage.Show();
+            this.Hide();
+        }
     }
 }

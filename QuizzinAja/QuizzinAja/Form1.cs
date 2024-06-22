@@ -60,5 +60,12 @@ namespace QuizzinAja
             createAccountForm.Show();
             this.Hide();
         }
+
+        private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            QuizCodeForm quizCodeForm = new QuizCodeForm();
+            quizCodeForm.Show();
+            this.Hide();
+        }
     }
 }

@@ -11,3 +11,6 @@ C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.exe
 C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.pdb
 C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.MainForm.resources
 C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.AddQuizForm.resources
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.ViewReportPage.resources
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.QuizCodeForm.resources
+C:\Users\smkyp\source\repos\QuizzinAja\QuizzinAja\obj\Debug\QuizzinAja.QuizForm.resources
